@@ -1,0 +1,10 @@
+name: widget-playground
+channels:
+  - anaconda-nb-extensions/label/dev
+dependencies:
+- nbpresent
+- ipywidgets
+- notebook
+- pyyaml
+- pip:
+  - pyld
